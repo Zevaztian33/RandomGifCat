@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # desafio_gifcat
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# RandomGifCat
+Ejercicio (Desafío Curso) "Random Gif Cat"
+>>>>>>> 32666e1a7f179bbe8d7c0758ffb925832c93cb85
