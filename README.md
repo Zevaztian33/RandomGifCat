@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # desafio_gifcat
-
+<img src="./src/assets/imagen de muestra.png">
 ## Project setup
 ```
 npm install
